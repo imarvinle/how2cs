@@ -1,0 +1,9 @@
+.vscode
+*.txt
+*.bat
+node_modules/
+docs/.vuepress/
+docs/.gitignore
+docs/.vuepress/dist/
+docs/README.md
+yarn.lock
