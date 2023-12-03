@@ -22,5 +22,5 @@ yarn install
 yarn docs:build
 echo "构建成功，✿✿ヽ(°▽°)ノ✿"
 # 拷贝文件到 nginx 映射目录
-mkdir -p ~/www
+mkdir -p ~/how2csweb
 /bin/cp -rf docs/.vuepress/dist/*  ~/how2csweb/
